@@ -234,4 +234,3 @@ m3 = Magazine("Sahih AL-Bukhari", "Bukhari", 1500, "9090890", "2005", "king batm
 Magazine._mini_data_base["Capitalism"] = m1
 Magazine._mini_data_base["communism"] = m2
 Magazine._mini_data_base["Sahih AL-Bukhari"] = m3
-
