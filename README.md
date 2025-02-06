@@ -24,7 +24,7 @@ Welcome to the **E-JUST Library Book Store** project! This Python-based applicat
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ejust-library.git
+    git clone https://github.com/ahmedabdellmaksoud/Book-store.git
     ```
 
 2. Navigate to the project directory:
@@ -36,7 +36,7 @@ Welcome to the **E-JUST Library Book Store** project! This Python-based applicat
 3. Run the `main.py` script to start the Book Store system:
 
     ```bash
-    python main.py
+    python Book_Store.py
     ```
 
 ## Usage
